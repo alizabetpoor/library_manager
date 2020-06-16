@@ -15,5 +15,5 @@ say <exit> when you want to stop program
 ```
 # use
 ```
-$python main.py
+$ python main.py
 ```
