@@ -1,5 +1,9 @@
 # library_manager
 use this program to manage your library
+# install prerequisites
+```
+$ pip install tabulate
+```
 # preview
 ```                                                                                                                               
         __   __        __                               __   ___  __                      
